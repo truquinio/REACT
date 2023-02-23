@@ -55,7 +55,7 @@ Si no se está satisfecho con la herramienta de compilación y las opciones de c
 
 
 ## 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=Html5&logoColor=white) ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=Css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=Bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=JavaScript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=Html5&logoColor=white) ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=Css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=Bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=JavaScript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=white)
 
 ## 🎞 Screenshot:
 
