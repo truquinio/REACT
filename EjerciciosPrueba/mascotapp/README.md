@@ -1,6 +1,7 @@
-# 👨🏻‍🔬 Rick & Morty App 🛸
+# 🛸 Rick & Morty App 
 
 • Visita mi <a href="https://github.com/truquinio/React/tree/master/EjerciciosPrueba/mascotapp">repositorio</a> 🗃
+<!-- • Ir al <a href="#"></a> 🔗 -->
 • Mi perfil de <a href="https://www.linkedin.com/in/federico-trucco/">LinkedIn</a> 🪪
 
 ## 🥒 Objetivo:
@@ -10,13 +11,13 @@ Mostrar personajes + características e incluir formulario de Log-in
 
 ## ⚗️ Requisitos:
 
-• Componentes
-• Contador de clicks mediante Hook
-• Functional y Class component
-• Servicio
-• UseState: Mostrar el state del componente.
-• OnChange: cambiar el valor del state.
-• UseEffect: Mostrar lista de nombres de los 20 primeros personajes.
+• Componentes<br>
+• Contador de clicks mediante Hook<br>
+• Functional y Class component<br>
+• Servicio<br>
+• UseState: Mostrar el state del componente<br>
+• OnChange: cambiar el valor del state<br>
+• UseEffect: Mostrar lista de nombres de los 20 primeros personajes<br>
 
 ### 🧬 Componentes del Proyecto
 
@@ -29,18 +30,17 @@ Mostrar personajes + características e incluir formulario de Log-in
 - Form
 
 ### 🧪 Scripts disponibles
-In the project directory, you can run:
 
 #### `npm start`
 
 Ejecuta la aplicación en el modo de desarrollo.\
-[http://localhost:3000](http://localhost:3000) para verla en su navegador.
+[http://localhost:3000](http://localhost:3000) para verla en el navegador.
 
-La página se volverá a cargar cuando realice cambios, salvo cuando haya errores.\
+La página se volverá a cargar cuando realice cambios, salvo cuando haya errores.
 
 #### `npm test`
 
-Lanza el corredor de pruebas en modo interactivo.\
+Lanza el corredor de pruebas en modo interactivo.
 
 #### `npm run build`
 
