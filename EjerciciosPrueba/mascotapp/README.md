@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# 👨🏻‍🔬 Rick & Morty App 🛸
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+• Visita mi <a href="https://github.com/truquinio/React/tree/master/EjerciciosPrueba/mascotapp">repositorio</a> 🗃
+• Mi perfil de <a href="https://www.linkedin.com/in/federico-trucco/">LinkedIn</a> 🪪
 
-## Available Scripts
+## 🥒 Objetivo:
 
+El objetivo de este ejercicio consiste crear un proyecto compuesto de varios componentes, bien diferenciados, y un servicio. Pudiendo conectarse a la API de Rick and Morty (https://rickandmortyapi.com/api/character).
+Mostrar personajes + características e incluir formulario de Log-in
+
+## ⚗️ Requisitos:
+
+• Componentes
+• Contador de clicks mediante Hook
+• Functional y Class component
+• Servicio
+• UseState: Mostrar el state del componente.
+• OnChange: cambiar el valor del state.
+• UseEffect: Mostrar lista de nombres de los 20 primeros personajes.
+
+### 🧬 Componentes del Proyecto
+
+- Navbar
+- Main
+- Cards
+- Card
+- Detail
+- Footer
+- Form
+
+### 🧪 Scripts disponibles
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Ejecuta la aplicación en el modo de desarrollo.\
+[http://localhost:3000](http://localhost:3000) para verla en su navegador.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+La página se volverá a cargar cuando realice cambios, salvo cuando haya errores.\
 
-### `npm test`
+#### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Lanza el corredor de pruebas en modo interactivo.\
 
-### `npm run build`
+#### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Construye la aplicación para producción | carpeta `build`.\
+Agrupa correctamente y optimiza la compilación para obtener el mejor rendimiento.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### `npm run eject`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+**Nota: esta es una operación unidireccional. Una vez que `expulsa`, no puede volver atrás!**
 
-### `npm run eject`
+Si no se está satisfecho con la herramienta de compilación y las opciones de configuración, puede `expulsar` en cualquier momento. Este comando eliminará la dependencia de compilación única de su proyecto.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/Html5-%23E34F26.svg?style=flat&logo=Html5&logoColor=white) ![CSS3](https://img.shields.io/badge/Css3-%231572B6.svg?style=flat&logo=Css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=Bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=JavaScript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=React&logoColor=%23F7DF1E)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🎞 Screenshot:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![RyM1](https://i.ibb.co/8s1c2GT/Rick-Morty-Api1.png)
+![RyM2](https://i.ibb.co/jGX5JHT/Rick-Morty-Api.png)
+![RyM3](https://i.ibb.co/t3BbJ9V/Rick-Morty-Api3.png)
 
-## Learn More
+## 👨🏻‍💻 Autor:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<b>Federico Trucco</b> | @truquinio 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/federico-trucco/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/zcRG3dSt)  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/317680) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/truquinio)
