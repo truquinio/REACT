@@ -60,7 +60,7 @@ Si no se está satisfecho con la herramienta de compilación y las opciones de c
 ## 🎞 Screenshot:
 
 ![RyM1](https://i.ibb.co/8s1c2GT/Rick-Morty-Api1.png)
-![RyM2](https://i.ibb.co/jGX5JHT/Rick-Morty-Api.png)
+![RyM2](https://i.ibb.co/6BzdmMr/Rick-Morty-Api2.png)
 ![RyM3](https://i.ibb.co/t3BbJ9V/Rick-Morty-Api3.png)
 
 ## 👨🏻‍💻 Autor:
