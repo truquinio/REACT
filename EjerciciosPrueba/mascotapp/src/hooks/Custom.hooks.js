@@ -10,7 +10,7 @@ export const useUserForm = (initialState = {}) =>{ // Hook q permite manejar un 
 
     setForm( // Voy armando un JSON con los campos q añado en los inputs
       {
-        ...form, // Sprid  hace q si form tenia valor tmb los incluya y agregue nuevos
+        ...form, // Hace q si form tenia valor tmb los incluya y agregue nuevos
         [name]: value, // No soporta elementos duplicados
       }
     )

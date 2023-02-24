@@ -17,7 +17,7 @@ export const Detail = () => {
 
     RickAndMortyService.getCharacterById(id)
     .then((data) => setMascota(data))
-  }, [])
+  }, [id])
 
 
   return (

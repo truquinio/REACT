@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 
 const Footer = () => { // Renderiza en formato JSX
 
-  // Funtional component / cuenta los clicks
+  // Functional component / cuenta los clicks
   const [clicks, setClicks] = useState(0); // useState(0) = Hook con el initial value
 
   const year = new Date().getFullYear();

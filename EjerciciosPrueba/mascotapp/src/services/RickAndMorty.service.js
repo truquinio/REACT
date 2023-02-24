@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 // Servicio: Capa especializada en comunicarse con apis
 
 import { API_RM } from './../constants/Api.constants';
